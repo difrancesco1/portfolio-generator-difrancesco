@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/difrancesco1/portfolio-generator-difrancesco/issues"
   },
-  "homepage": "https://github.com/difrancesco1/portfolio-generator-difrancesco#readme"
+  "homepage": "https://github.com/difrancesco1/portfolio-generator-difrancesco#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
