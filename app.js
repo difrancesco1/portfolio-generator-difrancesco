@@ -1,3 +1,4 @@
+
 const fs = require('fs');
 const generatePage = require('./src/page-template');
 
@@ -16,3 +17,4 @@ fs.writeFile('./index.html', pageHTML, err => { //Name of the file, data that wi
 
   console.log('Portfolio complete! Check out index.html to see the output!');
 });   // `` backticks reference
+
