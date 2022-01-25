@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator-difrancesco",
+  "version": "1.0.0",
+  "description": "A tool used to dynamically create a portfolio using node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/difrancesco1/portfolio-generator-difrancesco.git"
+  },
+  "keywords": [
+    "?"
+  ],
+  "author": "Joshua Di Francesco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/difrancesco1/portfolio-generator-difrancesco/issues"
+  },
+  "homepage": "https://github.com/difrancesco1/portfolio-generator-difrancesco#readme"
+}
